@@ -9,7 +9,7 @@
 </div>
 &nbsp;
 
-# Hi there, I'm Nikolas 👋
+# Hello there, I'm Nikolas 👋
 
 ## I'm a UI/UX-Designer & Frontend-Developer based in Vienna, Austria.
 
