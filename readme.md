@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently improving my TypeScript
 - 👯 I’m looking to collaborate with more content creators
-- 🥅 2022 Goals: Learn more about web3, advance on frontend-technolegies, hit the gym more. :D
+- 🥅 2022 Goals: Learn more about web3, advance on frontend-technologies, hit the gym more. :D
 - ⚡ Fun fact: I love to draw, evening walks and all-you-can-eat buffets.
 <!-- - 😻 Check out the NFT collection I created: -->
 
