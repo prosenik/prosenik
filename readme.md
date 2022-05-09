@@ -1,11 +1,11 @@
 &nbsp;
 
-<div style="margin-bottom:20px">
+<!-- <div style="margin-bottom:20px">
 <img align="left" alt="Nikolas Prosenik" width="1567px"  src="./img/portrait.jpg" style="padding-right:10px; ;"  >
-</div>
+</div> -->
 
 <div id="header" align="center">
-  <img src="./img/hello-there.gif" width="100"/>
+  <img src="./img/hello-there.gif" width="1567px"/>
 </div>
 &nbsp;
 
