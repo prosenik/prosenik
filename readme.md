@@ -3,6 +3,10 @@
 <div style="margin-bottom:20px">
 <img align="left" alt="Nikolas Prosenik" width="1567px"  src="./img/portrait.jpg" style="padding-right:10px; ;"  >
 </div>
+
+<div id="header" align="center">
+  <img src="./img/hello-there.gif" width="100"/>
+</div>
 &nbsp;
 
 # Hi there, I'm Nikolas 👋
